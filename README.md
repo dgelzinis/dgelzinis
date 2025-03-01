@@ -23,7 +23,7 @@ efficiency of every system.
   Seaborn, Plotly, pytest, etc.
 * **Databases:** PostgreSQL, MySQL, etc.
 * **Tools:** Git, Docker, CI/CD tools (e.g., Jenkins, GitHub Actions), Jupyter Notebooks, etc.
-* **Cloud:** AWS, Azure, GCP (mention which you use)
+* **Cloud:** AWS
 * **Machine Learning:** Regression, Classification, Clustering, etc.
 * **Testing:** Unit testing, Integration testing, End-to-End testing, Data Quality testing.
 * **Descriptive Analysis:** Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization.
