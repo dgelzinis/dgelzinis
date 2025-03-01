@@ -15,7 +15,7 @@ efficiency of every system.
 
 ## ⚙️ Technologies and Tools I'm Working With:
 
-* **💻 Languages:** Python, SQL, R (if applicable)
+* **💻 Languages:** Python, SQL, Bash.
 * **📊 Frameworks/Libraries:** Spark, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, pytest, etc.
 * **💾 Databases:** PostgreSQL, MySQL, etc.
 * **🔧 Tools:** Git, Docker, CI/CD (GitHub Actions), Jupyter Notebooks, etc.
@@ -26,9 +26,9 @@ efficiency of every system.
 
 ## 🔗 Connect With Me
 
-* [LinkedIn]([https://linkedin.com/in/danielius-gelzinis-189b8519])
-* [Email]([mailto:d.gelzinis@gmail.com])
+* <a href="https://linkedin.com/in/danielius-gelzinis-189b8519" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+* <a href="mailto:d.gelzinis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 ## 🤝 Contributions and Collaboration
 
-* [DataDigma]([https://datadigma.com])
+* [DataDigma](https://datadigma.com)
