@@ -1,35 +1,42 @@
-# Hi there 👋, I'm Danielius Gelzinis
+# Danielius Gelžinis
 
-Welcome to my GitHub profile! I'm a Data-Driven Engineer passionate about building high-quality, innovative solutions
-using Python, Machine Learning, and robust testing practices.
+**Independent Software & AI Builder**
 
-## 👨 About Me
+I build software products, intelligent systems, and practical automation workflows — bringing together product thinking, engineering, and data.
 
-I'm a Data-Driven Engineer passionate about building high-quality, innovative solutions using Python, Machine Learning,
-and robust testing practices. I thrive in environments where I can continuously learn and apply my skills to create
-impactful results through automation. I believe in continuous improvement and work to optimize the reliability and
-efficiency of every system.
+My background is in data-driven engineering. These days, I'm especially interested in turning complex workflows into useful software: from early product ideas and prototypes to reliable systems people can actually use.
 
-* **📚 Currently Learning:** Machine Learning, Cloud Infrastructure for ML.
-* **🚴‍♂️ ⚽ 🎹 Personal Touch:** Outside of coding, I enjoy sports, cycling, football, and playing the piano.
+## What I work on
 
-## ⚙️ Technologies and Tools I'm Working With
+- **AI & agentic systems** — applied AI, agent workflows, and tools that make work more effective.
+- **Product engineering** — taking ideas from problem definition and architecture through implementation and iteration.
+- **Automation & systems** — reducing manual work with dependable, well-designed workflows.
+- **Data engineering & analytics** — building with data, from pipelines and analysis to decision-support.
 
-* **💻 Languages:** Python, SQL, Bash.
-* **📊 Frameworks/Libraries:** Spark, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, pytest, etc.
-* **💾 Databases:** PostgreSQL, MySQL, etc.
-* **🔧 Tools:** Git, Docker, CI/CD (GitHub Actions), Jupyter Notebooks, etc.
-* **☁️ Cloud:** AWS (S3, RDS, Lambda)
-* **🧠 Machine Learning:** Regression, Classification, Clustering, etc.
-* **🧪 Testing:** Unit testing, Integration testing, E2E, Data Quality testing.
-* **📈 Descriptive Analysis:** EDA, Statistical Analysis, Data Visualization.
+## Current focus
 
-## 🔗 Connect With Me
+Exploring how small, focused software systems can solve meaningful business problems — especially where AI, automation, and thoughtful product design meet.
 
-<a href="https://linkedin.com/in/danielius-gelzinis-189b8519" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:d.gelzinis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+## Selected work
 
-## 🤝 Contributions and Collaboration
+- [DataDigma](https://datadigma.com) — business-focused data and technology.
+- [PetrolheadHub](https://petrolheadhub.com) — automotive-focused digital product.
 
-* [DataDigma](https://datadigma.com)
-* [PetrolheadHub](https://petrolheadhub.com)
+I also build and experiment with independent projects, reusable development tools, and AI-assisted workflows.
+
+## Toolkit
+
+**Languages & data:** Python, SQL, Bash, PostgreSQL  
+**Engineering:** TypeScript, Next.js, Git, Docker, automated testing, CI/CD  
+**Data & AI:** Pandas, NumPy, scikit-learn, Spark, applied machine learning  
+**Infrastructure:** Supabase, AWS, Vercel
+
+I choose tools based on the problem rather than trying to fit every project into the same stack.
+
+## Beyond the keyboard
+
+Cycling, football, and piano.
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/danielius-gelzinis-189b8519) · [Email](mailto:d.gelzinis@gmail.com) · [GitHub](https://github.com/dgelzinis)
